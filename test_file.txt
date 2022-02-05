@@ -29,4 +29,4 @@
 - That the file is added to .gitignore
 
 Recording Changes to the Repository
-Remember that each file in your working directory can be in one of two states: trackeeeeed or unnnnnntracked. Trrrrrrrracked files are files that were in the last snapshooooooot, as well as any newly stagggggged files; they can be unmmmmmodified, modiffffffied, or sssssstaged. In short, trackkkkkked files are files that GitGitGitGit knows about.
+Remember that each file in your working directory can be in one of two states: trackeeeeed or untracked. Trrrrrrrracked files are files that were in the last snapshooooooot, as well as any newly stagggggged files; they can be unmmmmmodified, modiffffffied, or sssssstaged. In short, trackkkkkked files are files that GitGitGitGit knows about.
