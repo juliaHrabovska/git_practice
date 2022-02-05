@@ -1,0 +1,17 @@
+1. How many version control systems are there?
+- Git only
+- Git and SVN
+- Git and CVS
+- A lot
+
+2. What is GitHub?
+- Program for working with Git
+- Driver for Git
+- Web service for hosting IT projects and their joint development based on Git
+- UI for working with local Git
+
+3. What is a Git repository?
+- Any directory/folder in my OS
+- Any folder inside Git
+- A Git repository is a directory on the file system that contains repository configuration files, log files that store operations performed on the repository, an index that describes the location of the files, and a repository that contains the actual files.
+- The .git/ folder and everything in it
