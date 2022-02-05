@@ -1,7 +1,4 @@
 1. How many version control systems are there?
-- Git only
-- Git and SVN
-- Git and CVS
 - A lot
 
 2. What is GitHub?
