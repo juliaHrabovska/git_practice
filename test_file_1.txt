@@ -1,0 +1,36 @@
+Test
+
+1. How many version control systems are?
+- Git only
+- Git and SVN
+- Git and CVS
+- A lot
+
+2. What is GitHub (GitLub, BitBucket)?
+- Program for working with Git
+- Driver for Git
+- Web service for hosting IT projects and their joint development based on Git
+- UI for working with local Git
+
+3. What is a Git repository?
+- Any directory/folder in my OS
+- Any folder inside Git
+- A Git repository is a directory on the file system that contains repository configuration files, log files that store operations performed on the repository, an index that describes the location of the files, and a repository that contains the actual files.
+- The .git/ folder and everything in it
+
+4. What does the "git add" command do?
+- Creates a file with the given name and immediately adds it to Git
+- Adds a local file to a remote repository so that other project members can see it
+- This is an alias/synonym for the git commit command
+- Starts monitoring the specified file or files
+
+5. What does the untracked status of a file mean in the output of the git status command?
+- That the Git system is not tracking this file
+- That the file has been removed from Git
+- That the file is outside the Git repository
+- That the file is added to .gitignore
+
+Text
+
+Recording Changes to the Repository
+Remember that each file in your working directory can be in one of two states: traaaaaaaacked or unnnnnntracked. Trrrrrrrracked files are files that were in the last snapshooooooot, as well as any newly stagggggged files; they can be unmmmmmodified, modiffffffied, or sssssstaged. In short, trackkkkkked files are files that GitGitGitGit knows about.

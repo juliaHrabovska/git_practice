@@ -1,0 +1,36 @@
+Test
+
+1. What is a branch in a Git repository?
+- This is the same as commit
+- These are at least two commits with the same commit message
+- These are different ways of developing the project, in fact, different sequences of commits
+- This is the mechanism for changing a particular file
+
+2. What is the difference between master and origin master
+- It's just two different names for the same thread.
+- master belongs to the local repository and origin master belongs to the remote
+- These are two different branches of the local repository
+- branch origin master does not exist
+
+3. What is the difference between "git push" and "git pull" commands?
+- These are aliases
+- The "git pull" command does not exist, but the "git push" command is needed to push the changes to the remote repository
+- The "git push" command does not exist, but the "git pull" command is needed to pull changes from a remote repository
+- The "git pull" command is needed to pull changes from a remote repository, and the "git push" command is needed to push changes to a remote repository
+
+4. How to resolve a conflict in Git?
+- Manually fix changes where Git could not do it automatically and then collect everything into a commit and push
+- You have to create the repository again
+- Run git commit merge please
+- Delete a file for which Git doesn't know how to merge changes
+
+5. How many branches can be in a repository?
+- As many as you want
+- This number is configured in the config.
+- No more than two
+- As many as there are participants in the project
+
+Text
+
+Basic Branching
+First, let’s say you’re working on your projeeeeeeeect and have a couple of commiiiiiiiits already on the masssssssster branch. You’ve decided that you’re going to work on issuuuuuuuuue #53 in whatever issue-traccccccccking system your company uses. To creaaaaaaaaate a new braaaaaaanch and switch to it at the same time, you can run the gitgitgitgitgitgit checkooooooout command with the -b swiiiiiiitch.
