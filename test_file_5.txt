@@ -1,7 +1,7 @@
 Test
 
 1. How to add a new directory to Git?
-- No way, Git only works with files. there are no changes and no history for directories
+- No way, Git only works with files. there are no changes and no history for directories.
 
 2. How is a repository directory different from any other?
 - Nothing, same directory
