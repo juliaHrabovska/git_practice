@@ -8,9 +8,7 @@ Test
 
 2. How to commit to my_branch branch?
 - You need to switch to it and then make a commit according to the same rules as for the master branch
-- It is necessary to prescribe the name of the branch in the commit message
-- Command: git fetch origin my_branch
-- No way, because branches are not used for this
+
 
 3. What is merging two branches?
 - When one branch is renamed to another
