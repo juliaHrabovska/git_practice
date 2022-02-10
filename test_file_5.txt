@@ -7,28 +7,17 @@ Test
 - Command: git add -d
 
 2. How is a repository directory different from any other?
-- Nothing, same directory
-- Access rights - the repository directory has access rights only to the user who "tilted" it (git clone)
 - Having a .git folder with repository settings
-- This directory is registered in the OS registry
 
 3. What is GitFlow for?
-- This is a way to organize work with Git into a large team.
-- This is a way to organize work with Git in a large project.
 - This is a way to organize work with Git in any team and on any project.
-- There is no such concept
+
 
 4. What is a commit?
 - This is the unit of project state in Git
-- This is the output of the git diff command
-- This is a generic name for one of the file statuses in the git status output: untracked, new, deleted, or modified
-- This word does not mean anything, it was introduced only to confuse beginners
 
 5. How to resolve a conflict in Git?
 - Manually fix changes where Git could not do it automatically and then collect everything into a commit and push
-- You have to create the repository again
-- Run git commit merge please
-- Delete a file for which Git doesn't know how to merge changes
 
 Text
 

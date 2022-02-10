@@ -13,9 +13,6 @@ Test
 - branch origin master does not exist
 
 3. What is the difference between "git push" and "git pull" commands?
-- These are aliases
-- The "git pull" command does not exist, but the "git push" command is needed to push the changes to the remote repository
-- The "git push" command does not exist, but the "git pull" command is needed to pull changes from a remote repository
 - The "git pull" command is needed to pull changes from a remote repository, and the "git push" command is needed to push changes to a remote repository
 
 4. How to resolve a conflict in Git?

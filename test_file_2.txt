@@ -8,9 +8,7 @@ Test
 
 2. What does the status of a modified file mean in the output of the git status command?
 - That the file has a history in the Git system and has been modified from its last state
-- There is no such status, there are only new and deleted statuses
-- This status is visible only with the git ignore command and means that the file is no longer tracked by Git.
-- Status means the file has been added to the commit
+
 
 3. What is a commit?
 - This is the unit of project state in Git

@@ -1,9 +1,6 @@
 Test
 
 1. How many version control systems are?
-- Git only
-- Git and SVN
-- Git and CVS
 - A lot
 
 2. What is GitHub (GitLub, BitBucket)?
@@ -26,9 +23,6 @@ Test
 
 5. What does the untracked status of a file mean in the output of the git status command?
 - That the Git system is not tracking this file
-- That the file has been removed from Git
-- That the file is outside the Git repository
-- That the file is added to .gitignore
 
 Text
 
