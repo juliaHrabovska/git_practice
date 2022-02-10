@@ -1,36 +1,12 @@
 Test
 
-1. How to make a branch called my_branch
-- Command: git branch my_branch
-- Command: git create branch my_branch
-- Command: git commit origin my_branch
-- Command: git checkout my_branch
-
-2. How to commit to my_branch branch?
-- You need to switch to it and then make a commit according to the same rules as for the master branch
-- It is necessary to prescribe the name of the branch in the commit message
-- Command: git fetch origin my_branch
-- No way, because branches are not used for this
-
-3. What is merging two branches?
-- When one branch is renamed to another
-- When all commits made on one branch become visible on the second branch
-- When the git fetch command was executed
-- When two branches soon have a third, smaller, but having the characteristics of both parent branches
-
-4. Why are there conflicts when merging branches?
-- Because the branches were created at different times
-- Because the branches were created from different commits
-- Because there are changes to the same lines in both branches
-- This is a legacy issue and hasn't been around since Git 1.2.
-
 5. Why do we need to add files to .gitignore?
-- To make Git delete their history, keeping only the latest version
-- So that Git asks "Are you sure you want to interact with this file?" when working with them.
+
 - So that Git doesn't notice them and any Git commands can't affect them
-- The .gitignore file doesn't carry any meaning, so don't do it.
+
 
 Text
 
+
 Basic Merge Conflicts
-If you changed the same part of the same file differently in the two braaaaaaanches you’re merging, GitGitGitGitGit won’t be able to meeeeeeerge them cleanly. If your fixxxxxx for issue #53 modiiiiiified the same part of a file as the hooooootfix branch, you’ll get a merge conffffffflict that looks something like this: CONFLICT (conteeeeeent): Merge conflict in index.html Automaaaaaatic merge failed; fix conflicts and then commmmmmmmit the result
+If you changed the same part of the same file differently in the two braaaaaaanches you’re merging, GitGitGitGitGit won’t be able to meeeeeeerge them cleanly. If your fixxxxxx for issue #53 modiiiiiified the same part of a file as the hooooootfix branch, you’ll get a merge conffffffflict that looks something like this: CONFLICT (conteeeeeent): Merge conflict in index.html Automatic merge failed; fix conflicts and then commit the result

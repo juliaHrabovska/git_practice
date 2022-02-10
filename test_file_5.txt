@@ -1,36 +1,22 @@
 Test
 
 1. How to add a new directory to Git?
-- Add every file from this directory to Git
-- Add at least one file from this directory to Git
 - No way, Git only works with files. there are no changes and no history for directories
-- Command: git add -d
 
 2. How is a repository directory different from any other?
-- Nothing, same directory
-- Access rights - the repository directory has access rights only to the user who "tilted" it (git clone)
 - Having a .git folder with repository settings
-- This directory is registered in the OS registry
 
 3. What is GitFlow for?
-- This is a way to organize work with Git into a large team.
-- This is a way to organize work with Git in a large project.
 - This is a way to organize work with Git in any team and on any project.
-- There is no such concept
+
 
 4. What is a commit?
 - This is the unit of project state in Git
-- This is the output of the git diff command
-- This is a generic name for one of the file statuses in the git status output: untracked, new, deleted, or modified
-- This word does not mean anything, it was introduced only to confuse beginners
 
 5. How to resolve a conflict in Git?
 - Manually fix changes where Git could not do it automatically and then collect everything into a commit and push
-- You have to create the repository again
-- Run git commit merge please
-- Delete a file for which Git doesn't know how to merge changes
 
 Text
 
 Pushing
-When you want to shaaaaaare a braaaaanch with the world, you need to puuuuuush it up to a remmmmmmote to which you have write acceeeeeeess. Your loooooocal branches aren’t automatically synchrooooooonized to the remotes you write to — you have to explicitly push the branches you want to share. If you have a branch named serverfiiiiiiix that you want to work on with others, you can push it up the same way you pushedddddd your first branch. Run gitgitgitgitgit push <remote> <branch>:
+When you want to share a branch with the world, you need to puuuuuush it up to a remmmmmmote to which you have write acceeeeeeess. Your loooooocal branches aren’t automatically synchrooooooonized to the remotes you write to — you have to explicitly push the branches you want to share. If you have a branch named serverfiiiiiiix that you want to work on with others, you can push it up the same way you pushedddddd your first branch. Run gitgitgitgitgit push <remote> <branch>:
