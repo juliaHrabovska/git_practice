@@ -19,9 +19,6 @@ Test
 - The .git/ folder and everything in it
 
 4. What does the "git add" command do?
-- Creates a file with the given name and immediately adds it to Git
-- Adds a local file to a remote repository so that other project members can see it
-- This is an alias/synonym for the git commit command
 - Starts monitoring the specified file or files
 
 5. What does the untracked status of a file mean in the output of the git status command?
