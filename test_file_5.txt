@@ -1,10 +1,7 @@
 Test
 
 1. How to add a new directory to Git?
-- Add every file from this directory to Git
-- Add at least one file from this directory to Git
 - No way, Git only works with files. there are no changes and no history for directories
-- Command: git add -d
 
 2. How is a repository directory different from any other?
 - Nothing, same directory
