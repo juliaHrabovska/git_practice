@@ -2,14 +2,21 @@ Test
 
 1. What does the file status new mean in the output of the git status command?
 - That the file has just been created and is not yet tracked by Git
-
+- That the file has just started being tracked by Git and has no history yet
+- That the file was deleted from Git and then restored with the git return command
+- There is no such status, there is only a deleted file status
 
 2. What does the status of a modified file mean in the output of the git status command?
 - That the file has a history in the Git system and has been modified from its last state
-
+- There is no such status, there are only new and deleted statuses
+- This status is visible only with the git ignore command and means that the file is no longer tracked by Git.
+- Status means the file has been added to the commit
 
 3. What is a commit?
 - This is the unit of project state in Git
+- This is the output of the git diff command
+- This is a generic name for one of the file statuses in the git status output: untracked, new, deleted, or modified
+- This word does not mean anything, it was introduced only to confuse beginners
 
 4. How to make a commit?
 - Just type git commit at any time
@@ -18,10 +25,12 @@ Test
 - You can’t commit, because there is no such thing
 
 5. In what situation should you do git status?
+- The more often the better
 - Always when creating a commit
-
+- Always after git pull
+- Only if you need to find out what status the repository is in, otherwise this command is not mandatory for any manipulation
 
 Text
 
 Branches
-When you make a comit, Git stores a commit object that contains a pointer to the snapshoooooot of the content you staggggggged. This object also contains the authoooooor’s name and email addrrrrrrrress, the messsssssssage that you typed, and poinnnnnnnters to the commit or commits that directly came before this commit (its parent or parents): zero parents for the inittttttttial commit, one parent for a normal commit, and multiple parents for a commit that results from a merge of two or more braaaaaaanches.
+When you make a comit, Git stores a commit object that contains a pointer to the snapshot of the content you staged. This object also contains the authoooooor’s name and email addrrrrrrrress, the messsssssssage that you typed, and poinnnnnnnters to the commit or commits that directly came before this commit (its parent or parents): zero parents for the inittttttttial commit, one parent for a normal commit, and multiple parents for a commit that results from a merge of two or more braaaaaaanches.
