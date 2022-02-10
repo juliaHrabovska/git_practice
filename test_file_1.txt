@@ -1,4 +1,4 @@
 Test
 
 4. What does the "git add" command do?
-- Adds a local file to a remote repository so that other project members can see it
+- Adds a local file to a remote repository so that other project members can see it!
