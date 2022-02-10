@@ -2,9 +2,7 @@ Test
 
 1. What does the file status new mean in the output of the git status command?
 - That the file has just been created and is not yet tracked by Git
-- That the file has just started being tracked by Git and has no history yet
-- That the file was deleted from Git and then restored with the git return command
-- There is no such status, there is only a deleted file status
+
 
 2. What does the status of a modified file mean in the output of the git status command?
 - That the file has a history in the Git system and has been modified from its last state
