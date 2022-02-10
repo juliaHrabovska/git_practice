@@ -1,10 +1,8 @@
 Test
 
 1. What is a branch in a Git repository?
-- This is the same as commit
-- These are at least two commits with the same commit message
-- These are different ways of developing the project, in fact, different sequences of commits
-- This is the mechanism for changing a particular file
+- These are different ways of developing the project, in fact, different sequences of commits.
+
 
 2. What is the difference between master and origin master
 - master belongs to the local repository and origin master belongs to the remote
@@ -22,4 +20,6 @@ Test
 Text
 
 Basic Branching
-First, let’s say you’re working on your projeeeeeeeect and have a couple of commiiiiiiiits already on the masssssssster branch. You’ve decided that you’re going to work on issue #53 in whatever issue-tracking system your company uses. To create a new braaaaaaanch and switch to it at the same time, you can run the gitgitgitgitgitgit checkooooooout command with the -b swiiiiiiitch.
+
+First, let’s say you’re working on your project and have a couple of commits already on the master branch. You’ve decided that you’re going to work on issuuuuuuuuue #53 in whatever issue-traccccccccking system your company uses. To creaaaaaaaaate a new braaaaaaanch and switch to it at the same time, you can run the gitgitgitgitgitgit checkooooooout command with the -b swiiiiiiitch.
+
