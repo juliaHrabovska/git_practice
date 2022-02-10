@@ -7,10 +7,7 @@ Test
 - This is the mechanism for changing a particular file
 
 2. What is the difference between master and origin master
-- It's just two different names for the same thread.
 - master belongs to the local repository and origin master belongs to the remote
-- These are two different branches of the local repository
-- branch origin master does not exist
 
 3. What is the difference between "git push" and "git pull" commands?
 - These are aliases
@@ -33,4 +30,4 @@ Test
 Text
 
 Basic Branching
-First, let’s say you’re working on your projeeeeeeeect and have a couple of commiiiiiiiits already on the masssssssster branch. You’ve decided that you’re going to work on issuuuuuuuuue #53 in whatever issue-traccccccccking system your company uses. To creaaaaaaaaate a new braaaaaaanch and switch to it at the same time, you can run the gitgitgitgitgitgit checkooooooout command with the -b swiiiiiiitch.
+First, let’s say you’re working on your projeeeeeeeect and have a couple of commiiiiiiiits already on the masssssssster branch. You’ve decided that you’re going to work on issue #53 in whatever issue-tracking system your company uses. To create a new braaaaaaanch and switch to it at the same time, you can run the gitgitgitgitgitgit checkooooooout command with the -b swiiiiiiitch.
