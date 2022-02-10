@@ -13,10 +13,7 @@ Test
 - No way, because branches are not used for this
 
 3. What is merging two branches?
-- When one branch is renamed to another
 - When all commits made on one branch become visible on the second branch
-- When the git fetch command was executed
-- When two branches soon have a third, smaller, but having the characteristics of both parent branches
 
 4. Why are there conflicts when merging branches?
 - Because the branches were created at different times
