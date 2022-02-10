@@ -1,10 +1,8 @@
 Test
 
 1. What is a branch in a Git repository?
-- This is the same as commit
-- These are at least two commits with the same commit message
 - These are different ways of developing the project, in fact, different sequences of commits
-- This is the mechanism for changing a particular file
+
 
 2. What is the difference between master and origin master
 - It's just two different names for the same thread.
