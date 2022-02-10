@@ -1,9 +1,6 @@
 Test
 
 1. How many version control systems are?
-- Git only
-- Git and SVN
-- Git and CVS
 - A lot
 
 2. What is GitHub (GitLub, BitBucket)?
