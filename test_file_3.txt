@@ -1,7 +1,7 @@
 Test
 
 1. What is a branch in a Git repository?
-- These are different ways of developing the project, in fact, different sequences of commits
+- These are different ways of developing the project, in fact, different sequences of commits.
 
 
 2. What is the difference between master and origin master
