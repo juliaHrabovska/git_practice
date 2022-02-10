@@ -7,10 +7,7 @@ Test
 - Command: git add -d
 
 2. How is a repository directory different from any other?
-- Nothing, same directory
-- Access rights - the repository directory has access rights only to the user who "tilted" it (git clone)
 - Having a .git folder with repository settings
-- This directory is registered in the OS registry
 
 3. What is GitFlow for?
 - This is a way to organize work with Git into a large team.
