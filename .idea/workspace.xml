@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b03acf88-d341-4bd5-b3e3-e9020f5eea87" name="Changes" comment="question [3] [Lyko]">
-      <change beforePath="$PROJECT_DIR$/test_file_2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test_file_2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_file_5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test_file_5.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644519800333</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="question [3] [Lyko]">
+      <created>1644520204840</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644520204840</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
