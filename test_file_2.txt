@@ -18,10 +18,8 @@ Test
 - You can’t commit, because there is no such thing
 
 5. In what situation should you do git status?
-- The more often the better
 - Always when creating a commit
-- Always after git pull
-- Only if you need to find out what status the repository is in, otherwise this command is not mandatory for any manipulation
+
 
 Text
 
