@@ -13,10 +13,8 @@ Test
 - This directory is registered in the OS registry
 
 3. What is GitFlow for?
-- This is a way to organize work with Git into a large team.
-- This is a way to organize work with Git in a large project.
 - This is a way to organize work with Git in any team and on any project.
-- There is no such concept
+
 
 4. What is a commit?
 - This is the unit of project state in Git
