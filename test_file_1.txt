@@ -19,4 +19,6 @@ Test
 Text
 
 Recording Changes to the Repository
-Remember that each file in your working directory can be in one of two states: tracked or untracked. Trrrrrrrracked files are files that were in the last snapshooooooot, as well as any newly stagggggged files; they can be unmmmmmodified, modiffffffied, or sssssstaged. In short, tracked files are files that Git knows about.
+Remember that each file in your working directory can be in one of two states: tracked or untracked. Tracked files are files that were in the last snapshot, as well as any newly stagggggged files; they can be unmodified, modified, or sssssstaged. In short, tracked files are files that Git knows about.
+
+
