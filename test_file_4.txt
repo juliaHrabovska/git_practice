@@ -19,10 +19,8 @@ Test
 - When two branches soon have a third, smaller, but having the characteristics of both parent branches
 
 4. Why are there conflicts when merging branches?
-- Because the branches were created at different times
-- Because the branches were created from different commits
 - Because there are changes to the same lines in both branches
-- This is a legacy issue and hasn't been around since Git 1.2.
+
 
 5. Why do we need to add files to .gitignore?
 - To make Git delete their history, keeping only the latest version
