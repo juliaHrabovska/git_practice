@@ -24,9 +24,6 @@ Test
 
 5. How many branches can be in a repository?
 - As many as you want
-- This number is configured in the config.
-- No more than two
-- As many as there are participants in the project
 
 Text
 
