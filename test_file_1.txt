@@ -10,10 +10,7 @@ Test
 - UI for working with local Git
 
 3. What is a Git repository?
-- Any directory/folder in my OS
-- Any folder inside Git
 - A Git repository is a directory on the file system that contains repository configuration files, log files that store operations performed on the repository, an index that describes the location of the files, and a repository that contains the actual files.
-- The .git/ folder and everything in it
 
 4. What does the "git add" command do?
 - Creates a file with the given name and immediately adds it to Git
