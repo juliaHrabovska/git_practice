@@ -25,4 +25,4 @@ Test
 Text
 
 Basic Branching
-First, let’s say you’re working on your projeeeeeeeect and have a couple of commiiiiiiiits already on the masssssssster branch. You’ve decided that you’re going to work on issuuuuuuuuue #53 in whatever issue-traccccccccking system your company uses. To creaaaaaaaaate a new braaaaaaanch and switch to it at the same time, you can run the gitgitgitgitgitgit checkooooooout command with the -b swiiiiiiitch.
+First, let’s say you’re working on your projeeeeeeeect and have a couple of commiiiiiiiits already on the masssssssster branch. You’ve decided that you’re going to work on issuuuuuuuuue #53 in whatever issue-traccccccccking system your company uses. To creaaaaaaaaate a new branch and switch to it at the same time, you can run the git checkooooooout command with the -b swiiiiiiitch.
