@@ -7,10 +7,8 @@ Test
 - A lot
 
 2. What is GitHub (GitLub, BitBucket)?
-- Program for working with Git
-- Driver for Git
+
 - Web service for hosting IT projects and their joint development based on Git
-- UI for working with local Git
 
 3. What is a Git repository?
 - Any directory/folder in my OS
