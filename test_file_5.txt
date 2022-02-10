@@ -19,4 +19,4 @@ Test
 Text
 
 Pushing
-When you want to share a branch with the world, you need to push it up to a remote to which you have write access. Your local branches aren’t automatically synchrooooooonized to the remotes you write to — you have to explicitly push the branches you want to share. If you have a branch named serverfiiiiiiix that you want to work on with others, you can push it up the same way you pushedddddd your first branch. Run gitgitgitgitgit push <remote> <branch>:
+When you want to share a branch with the world, you need to push it up to a remote to which you have write access. Your local branches aren’t automatically synchronized to the remotes you write to — you have to explicitly push the branches you want to share. If you have a branch named serverfiiiiiiix that you want to work on with others, you can push it up the same way you pushedddddd your first branch. Run gitgitgitgitgit push <remote> <branch>:
