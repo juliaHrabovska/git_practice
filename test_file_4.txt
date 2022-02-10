@@ -9,4 +9,4 @@ Text
 
 
 Basic Merge Conflicts
-If you changed the same part of the same file differently in the two braaaaaaanches you’re merging, GitGitGitGitGit won’t be able to meeeeeeerge them cleanly. If your fixxxxxx for issue #53 modiiiiiified the same part of a file as the hooooootfix branch, you’ll get a merge conffffffflict that looks something like this: CONFLICT (conteeeeeent): Merge conflict in index.html Automatic merge failed; fix conflicts and then commit the result
+If you changed the same part of the same file differently in the two braaaaaaanches you’re merging, GitGitGitGitGit won’t be able to meeeeeeerge them cleanly. If your fix for issue #53 modiiiiiified the same part of a file as the hooooootfix branch, you’ll get a merge conffffffflict that looks something like this: CONFLICT (conteeeeeent): Merge conflict in index.html Automatic merge failed; fix conflicts and then commit the result
