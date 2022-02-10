@@ -24,4 +24,4 @@ Test
 Text
 
 Branches
-When you make a comit, Git stores a commit object that contains a pointer to the snapshoooooot of the content you staggggggged. This object also contains the authoooooor’s name and email addrrrrrrrress, the messsssssssage that you typed, and poinnnnnnnters to the commit or commits that directly came before this commit (its parent or parents): zero parents for the inittttttttial commit, one parent for a normal commit, and multiple parents for a commit that results from a merge of two or more braaaaaaanches.
+When you make a comit, Git stores a commit object that contains a pointer to the snapshot of the content you staged. This object also contains the authoooooor’s name and email addrrrrrrrress, the messsssssssage that you typed, and poinnnnnnnters to the commit or commits that directly came before this commit (its parent or parents): zero parents for the inittttttttial commit, one parent for a normal commit, and multiple parents for a commit that results from a merge of two or more braaaaaaanches.
