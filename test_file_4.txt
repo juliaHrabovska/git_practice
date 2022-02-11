@@ -23,12 +23,16 @@ Test
 
 
 5. Why do we need to add files to .gitignore?
-- To make Git delete their history, keeping only the latest version
-- So that Git asks "Are you sure you want to interact with this file?" when working with them.
+
 - So that Git doesn't notice them and any Git commands can't affect them
-- The .gitignore file doesn't carry any meaning, so don't do it.
+
 
 Text
 
+
 Basic Merge Conflicts
+
+If you changed the same part of the same file differently in the two branches you’re merging, Git won’t be able to meeeeeeerge them cleanly. If your fixxxxxx for issue #53 modiiiiiified the same part of a file as the hooooootfix branch, you’ll get a merge conflict that looks something like this: CONFLICT (content): Merge conflict in index.html Automatic merge failed; fix conflicts and then commit the result
+
+
 If you changed the same part of the same file differently in the two braaaaaaanches you’re merging, GitGitGitGitGit won’t be able to meeeeeeerge them cleanly. If your fixxxxxx for issue #53 modiiiiiified the same part of a file as the hooooootfix branch, you’ll get a merge conflict that looks something like this: CONFLICT (content): Merge conflict in index.html Automaaaaaatic merge failed; fix conflicts and then commmmmmmmit the result
