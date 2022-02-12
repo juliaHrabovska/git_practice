@@ -8,9 +8,6 @@ Test
 
 2. How to commit to my_branch branch?
 - You need to switch to it and then make a commit according to the same rules as for the master branch
-- It is necessary to prescribe the name of the branch in the commit message
-- Command: git fetch origin my_branch
-- No way, because branches are not used for this
 
 3. What is merging two branches?
 - When one branch is renamed to another
@@ -20,7 +17,6 @@ Test
 
 4. Why are there conflicts when merging branches?
 - Because there are changes to the same lines in both branches
-
 
 5. Why do we need to add files to .gitignore?
 
@@ -34,5 +30,3 @@ Basic Merge Conflicts
 
 If you changed the same part of the same file differently in the two branches you’re merging, Git won’t be able to meeeeeeerge them cleanly. If your fixxxxxx for issue #53 modiiiiiified the same part of a file as the hooooootfix branch, you’ll get a merge conflict that looks something like this: CONFLICT (content): Merge conflict in index.html Automatic merge failed; fix conflicts and then commit the result
 
-
-If you changed the same part of the same file differently in the two braaaaaaanches you’re merging, GitGitGitGitGit won’t be able to meeeeeeerge them cleanly. If your fixxxxxx for issue #53 modiiiiiified the same part of a file as the hooooootfix branch, you’ll get a merge conflict that looks something like this: CONFLICT (content): Merge conflict in index.html Automaaaaaatic merge failed; fix conflicts and then commmmmmmmit the result
