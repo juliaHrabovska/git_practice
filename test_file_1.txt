@@ -14,7 +14,7 @@ Test
 - Starts monitoring the specified file or files
 
 5. What does the untracked status of a file mean in the output of the git status command?
-- That the Git system is not tracking this file
+- That the Git system is not traccking this file
 
 Text
 
