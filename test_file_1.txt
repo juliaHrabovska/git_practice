@@ -1,4 +1,4 @@
-Test
+Test for the practice
 
 1. How many version control systems are?
 - A lot
